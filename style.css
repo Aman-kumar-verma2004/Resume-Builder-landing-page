@@ -1,0 +1,223 @@
+
+#navbar ul{
+    overflow: auto;
+    background-color: white;
+    border-radius: 40px;
+    box-shadow: 2px 2px 5px black;
+    margin-right: 20px;
+    height: 60px;
+    width: 97%;
+}
+
+
+#navbar li{
+    float: right;
+    list-style: none;
+    margin-top: 20px;
+    text-align: center;
+}
+#navbar li a{
+    padding: 20px 20px;
+    text-decoration: none;
+    color: rgb(122, 78, 224);;
+    font-family: system-ui;
+}
+#navbar li a:hover{
+    text-shadow: 2px 2px 10px black;
+
+}
+#navbar input{
+    float:inline-start;
+    padding: 8px 13px;
+    border-radius: 20px;
+    margin:10px 2px ;
+    width: 100px;
+    position: absolute;
+    margin-left: 30%;   
+    
+}
+#navbar ul img{
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    margin-top: 5px;
+}
+#navbar ul h2{
+    position: absolute;
+    padding:5px 0 5px 0;
+    margin:10px;
+    margin-left: 6%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+#navbar ul h2:hover{
+    text-shadow: 2px 2px 15px black;
+    font-size: 1.7em;
+}
+#navbar ul li a button{
+    border-radius: 10px;
+    font-weight: 1.4em;
+    
+}
+#navbar ul li a button:hover{
+    border-radius: 0px 10px 0px 10px;
+    transition-duration: 1s;
+    
+}
+.moto{
+    font-family: system-ui;
+    margin: 0px 0px 0px 30px;
+    flex-direction: row;
+    
+}
+
+#body p{
+    margin-right: 20%;
+    margin-top: 10px;
+    font-family: system-ui;
+    line-height: 10px;
+    margin-bottom: 5px;
+    line-height: 35px;
+    color: rgb(122, 78, 224);
+}
+#body1 h1{
+    font-size:70px;
+    font-weight: 20px;
+    font-family:system-ui;
+    border: 2px 2px 2px 2px;
+    line-height: 70px;
+}
+#body2 p{
+    font-family: system-ui;
+    line-height: 35px;
+    font-size: 40px;
+}
+#body3 span{
+    color: rgb(235, 123, 19);
+    line-height: 35px;
+}
+#body3 p{
+    line-height: 10px;
+}
+#body3 button{
+    border: 5px 5px 5px 5px;
+    margin-top: 15px;
+    font-size: 15px;
+    padding: 10PX;
+    border-radius: 7px;
+    font-family: system-ui;
+    background-color:rgb(122, 78, 224); 
+    
+}
+
+#qwer1{
+    float:right;
+    margin:0% 0% 0% 0%;
+}
+#qwer{
+    float:right;
+    margin:0% 5% 0% 0%;
+}
+.moto1 p{
+    font-family: system-ui;
+   color: black;
+   text-align: center;
+   font-size: 30px;
+}
+.card{
+    border: 2px solid black;
+    width: 300px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+   box-shadow: 2px 2px 10px black;
+   
+
+}
+#pic1{
+    margin: 4px;
+    border-radius: 10px;
+}
+#pic2{
+    margin: 4px;
+    border-radius: 10px;
+}
+#pic3{
+    margin: 4px;
+    border-radius: 10px;
+}
+#pic4{
+    margin: 4px;
+    border-radius: 10px;
+}
+#pets{
+    display: flex;
+    justify-content: space-evenly;
+}
+.moto2 p{
+    font-family: system-ui;
+   color: rgb(122, 78, 224); ;
+   text-align: center;
+   font-size: 18px;
+   font-weight: 35px;
+}
+.card{
+    border: 2px solid black;
+    width: 300px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+   box-shadow: 2px 2px 10px black;
+   
+
+}
+#pic5{
+    margin: 4px;
+    border-radius: 10px;
+}
+#pic6{
+    margin: 4px;
+    border-radius: 10px;
+}
+#pic7{
+    margin: 4px;
+    border-radius: 10px;
+}
+
+#pets{
+    display: flex;
+    justify-content: space-evenly;
+}
+.moto2 h2{
+    font-family: system-ui;
+   color: black;
+   text-align: center;
+   font-size: 25px;
+}
+.card p{
+    color: black;
+}
+.details{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: 3px 3px 7px black;
+   font-family: system-ui;
+}
+.foot p{
+    font-size: 15px;
+    color: black;
+    font-family: system-ui;
+}
+#moto3{
+    text-align: left;
+}
+.footer-social p{
+    font-size: 10px;
+    color: black;
+}
+
+
+
